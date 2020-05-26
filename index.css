@@ -35,7 +35,7 @@ body{
   display: flex;
   justify-content: space-between;
 }
-button{
+.header-button{
     font-family: Signika_Negative;
     text-align: center;
     padding: 20px;
